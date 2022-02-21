@@ -1,0 +1,32 @@
+The testcases can be version 1
+
+1    >> The host should have be the main control of all participant so he/she can mute in the case of noise.
+2    >>  It should work on all operating system (window , android , lunix etc)
+3    >>  It should be in both in web and app formate .(it shold be in application and web )
+4    >>  There should also be night mode.
+5    >>  There should be key for each participant so only valid member can be added
+6    >>  Host should be having function that he/she might remove any member in case of disturbance
+7    >>   The application should also work in background.
+8    >>  The application should have chat section so any candidate can type his or her query in that section
+9    >>  The host can add make any one host at the time of meating.
+10  >>  Minimum 5000 member can join the meeting at a time.
+11  >>  There should be timing lock(eg :> if a meeting is going to start at 10 am , so member can join the meeting after the 10.5am)
+12  >>  There should be limit of 1 hour for non premimum member of the application(so it will help to earn the company capital)
+13  >>  There should be a raise hand button, so a member who is willing to speak in the meeting a should give a prior knowledge to the host about its speaking
+14  >>  There should be a pin vidio of the member ( if a person is intrested to pin a particular member on the screen he/she do it)
+15  >>  The app should have a data savermode in application.
+16  >>  A member can block vidio of all other member accept the host.
+17  >> The rename option should also be there.
+18  >> The name of member can have maximum 35 character.
+19  >> There should be a window such that if any member is joining the meeting it's entery should be first accept by the host the meeting.
+20  >> There should a option to blur the background of member.
+21  >> The host can share screen.
+22  >> You can srink and expend the size of screen of the host.
+23  >> To verify camera is avilable on the system
+24  >> To Verify microphone is on system.
+25  >> The application should automatically reconnet in case of network issue.
+26  >> The active member of group can share the link of the meeting
+27  >> There should audio and vidio recording feature in application.
+28  >> The host should have authority that he/she can off the camera and mic of other member but can not on it.
+29  >> A host of the meeting can make any member a host.
+30  >> In case of host left the meeting the meeting should not be closed insted any random member should be allocated a host and meeting should not be closed.

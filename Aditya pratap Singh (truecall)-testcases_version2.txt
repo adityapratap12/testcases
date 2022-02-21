@@ -1,0 +1,12 @@
+testcases for version 2
+
+1>> require password for all meeting
+2>>the chairperson joins first
+3>>lock calls after everyone joins
+4>>set up alerts when meetings are forwarded
+5>>limit file sharing in the chats
+6>>only the host of the meeting can record the meeting
+7>> Location based restriction(suppose a location maybe set so a person living within uttar pradesh can join the meeting so the chance of unauthorized person will be reduced)
+8>> the Password the meeting should be strong and should be checked by application (so that known member can acces it)
+9>> Each time there should be new link for the meeting
+10>> End-to-end encryption before it's send and decrypted only by the intended recipient.
